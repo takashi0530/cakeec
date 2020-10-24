@@ -1,0 +1,20 @@
+body {
+    background: #aaffaa;
+    color: #006600;
+    margin: 0;
+}
+#header {
+    font-style: 14pt;
+    font-weight: bold;
+}
+#content {
+    background: #eeffee;
+    color: #009900;
+    padding: 10px 20px 40px 20px;
+}
+#footer {
+    text-align: right;
+}
+h1 {
+    font-style: 12pt;
+}
